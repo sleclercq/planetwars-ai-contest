@@ -1,0 +1,21 @@
+1.0
+Against BullyBot : 45
+Against DualBot : 2
+Against ExpandBot : 0
+Against ProspectorBot : 10
+Against RageBot : 50
+
+1.0.1
+
+lundi 4 octobre 2010, 18:15:34 (UTC+0200)
+Against BullyBot : 94
+Against DualBot : 25
+Against ExpandBot : 0
+Against ProspectorBot : 91
+Against RageBot : 60
+lundi 4 octobre 2010, 18:36:20 (UTC+0200)
+Against BullyBot : 0
+Against DualBot : 0
+Against ExpandBot : 0
+Against ProspectorBot : 0
+Against RageBot : 0
